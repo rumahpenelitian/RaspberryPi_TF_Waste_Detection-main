@@ -1,0 +1,6 @@
+total file 1000
+
+ratio 80:20
+train 800
+test 200
+

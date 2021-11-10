@@ -1,1 +1,1 @@
-# RaspberryPi_TF_Waste_Detection-main
+# plastic-waste-object-detection

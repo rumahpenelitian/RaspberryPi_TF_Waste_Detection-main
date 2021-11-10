@@ -1,0 +1,6 @@
+[submodule "Tensorflow/labelImg"]
+	path = Tensorflow/labelImg
+	url = https://github.com/tzutalin/labelImg
+[submodule "Tensorflow/models"]
+	path = Tensorflow/models
+	url = https://github.com/tensorflow/models

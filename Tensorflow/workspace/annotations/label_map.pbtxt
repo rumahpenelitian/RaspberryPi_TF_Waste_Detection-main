@@ -1,0 +1,12 @@
+item { 
+	name:'Sampah_Plastik'
+	id:1
+}
+item { 
+	name:'Sampah_Styrofoam'
+	id:2
+}
+item { 
+	name:'Sampah_Botol_Plastik'
+	id:3
+}

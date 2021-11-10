@@ -1,0 +1,26 @@
+<annotation>
+	<folder>All_Image</folder>
+	<filename>121021-124722.jpg</filename>
+	<path>D:\tf_project\Plastic_Waste_Detection\Tensorflow\workspace\images\All_Image\121021-124722.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sampah_Styrofoam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>277</xmin>
+			<ymin>199</ymin>
+			<xmax>291</xmax>
+			<ymax>210</ymax>
+		</bndbox>
+	</object>
+</annotation>
